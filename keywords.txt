@@ -1,0 +1,17 @@
+Prayer  KEYWORD1
+Hijriyah    KEYWORD1
+
+Update  KEYWORD2
+
+getImsak    KEYWORD3
+getSubuh    KEYWORD3
+getTerbit   KEYWORD3
+getDhuha    KEYWORD3
+getDzuhur   KEYWORD3
+getAshar    KEYWORD3
+getMaghrib  KEYWORD3
+getIsya KEYWORD3
+
+getHijriyahDate KEYWORD3
+getHijriyahMonth    KEYWORD3
+getHijriyahYear KEYWORD3
